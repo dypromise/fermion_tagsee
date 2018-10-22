@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/comet4j-tomcat7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activemq-all-5.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Tagsee_display:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tagsee_display_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Tagsee_display" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Tagsee_display/web/Web" />
+      <element id="javaee-facet-resources" facet="Tagsee_display/web/Web2" />
+    </root>
+  </artifact>
+</component>
